@@ -1,0 +1,61 @@
+Invalid chunk ID '\x00\x00\x00\x18'
+Invalid chunk ID '\x00\x00\x00\x18'
+Invalid chunk ID '\x00\x00\x00\x18'
+mpg123_seek: Invalid RVA mode. (code 12)
+Invalid chunk ID '\x00\x00\x00\x18'
+Invalid chunk ID '\x00\x00\x00\x18'
+Invalid chunk ID '\x00\x00\x00\x18'
+Invalid chunk ID '\x00\x00\x00\x18'
+mpg123_seek: Invalid RVA mode. (code 12)
+mpg123_seek: Invalid RVA mode. (code 12)
+Invalid chunk ID '\x00\x00\x00\x18'
+mpg123_seek: Invalid RVA mode. (code 12)
+Invalid chunk ID '\x00\x00\x00\x18'
+mpg123_seek: Invalid RVA mode. (code 12)
+Invalid chunk ID '\x00\x00\x00\x18'
+Invalid chunk ID '\x00\x00\x00\x18'
+mpg123_seek: Invalid RVA mode. (code 12)
+Invalid chunk ID '\x00\x00\x00\x18'
+Invalid chunk ID '\x00\x00\x00\x18'
+Invalid chunk ID '\x00\x00\x00\x18'
+Invalid chunk ID '\x00\x00\x00\x18'
+Invalid chunk ID '\x00\x00\x00\x18'
+Invalid chunk ID '\x00\x00\x00\x18'
+mpg123_seek: Invalid RVA mode. (code 12)
+Invalid chunk ID '\x00\x00\x00\x18'
+Invalid chunk ID '\x00\x00\x00\x18'
+Invalid chunk ID '\x00\x00\x00\x18'
+Invalid chunk ID '\x00\x00\x00\x18'
+Invalid chunk ID '\x00\x00\x00\x18'
+Invalid chunk ID '\x00\x00\x00\x18'
+Invalid chunk ID '\x00\x00\x00\x18'
+Invalid chunk ID '\x00\x00\x00\x18'
+Invalid chunk ID '\x00\x00\x00\x18'
+Invalid chunk ID '\x00\x00\x00\x18'
+Invalid chunk ID '\x00\x00\x00\x18'
+Invalid chunk ID '\x00\x00\x00\x18'
+Invalid chunk ID '\x00\x00\x00\x18'
+Invalid chunk ID '\x00\x00\x00\x18'
+Invalid chunk ID '\x00\x00\x00\x18'
+mpg123_seek: Invalid RVA mode. (code 12)
+Invalid chunk ID '\x00\x00\x00\x18'
+Invalid chunk ID '\x00\x00\x00\x18'
+Invalid chunk ID '\x00\x00\x00\x18'
+Invalid chunk ID '\x00\x00\x00\x18'
+Invalid chunk ID '\x00\x00\x00\x18'
+Invalid chunk ID '\x00\x00\x00\x18'
+Invalid chunk ID '\x00\x00\x00\x18'
+Invalid chunk ID '\x00\x00\x00\x18'
+mpg123_seek: Invalid RVA mode. (code 12)
+Invalid chunk ID '\x00\x00\x00\x18'
+Invalid chunk ID '\x00\x00\x00\x18'
+mpg123_seek: Invalid RVA mode. (code 12)
+Invalid chunk ID '\x00\x00\x00\x18'
+mpg123_seek: Invalid RVA mode. (code 12)
+mpg123_seek: Invalid RVA mode. (code 12)
+Invalid chunk ID '\x00\x00\x00\x18'
+mpg123_seek: Invalid RVA mode. (code 12)
+mpg123_seek: Invalid RVA mode. (code 12)
+mpg123_seek: Invalid RVA mode. (code 12)
+Invalid chunk ID '\x00\x00\x00\x18'
+mpg123_seek: Invalid RVA mode. (code 12)
